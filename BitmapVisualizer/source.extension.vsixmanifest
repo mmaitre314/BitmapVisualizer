@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="36C67B11-038B-4D2B-ACCB-C42A54E0F5C0" Version="1.8" Language="en-US" Publisher="Matthieu Maitre" />
+    <Identity Id="36C67B11-038B-4D2B-ACCB-C42A54E0F5C0" Version="1.9" Language="en-US" Publisher="Matthieu Maitre" />
     <DisplayName>Bitmap Visualizer</DisplayName>
-    <Description>Debugger extension displaying bitmaps</Description>
+    <Description xml:space="preserve">[Alpha version] Debugger extension displaying bitmaps</Description>
+    <MoreInfo>https://github.com/mmaitre314/BitmapVisualizer</MoreInfo>
     <License>License.txt</License>
   </Metadata>
   <Installation InstalledByMsi="false">
